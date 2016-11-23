@@ -1,0 +1,3 @@
+`include "axi_bfm.sv"
+`include "axi_gen.sv"
+`include "axi_cov.sv"
